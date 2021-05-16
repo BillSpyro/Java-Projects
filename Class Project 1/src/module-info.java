@@ -1,0 +1,4 @@
+
+module ClassProject1 {
+
+}
